@@ -1,24 +1,21 @@
 import { namespaceWrapper } from "@_koii/namespace-wrapper";
+import axios from "axios";
+
+const CHANNEL_NAME = "TelegramTips"; // Replace with your desired public channel
+const TG_JSON_API = `https://tg.i-c-a.su/json/${CHANNEL_NAME}`;
 
 export async function task(roundNumber) {
   try {
-    console.log(`Executing task for round ${roundNumber}`);
+    console.log(`EXECUTE TASK FOR ROUND ${roundNumber}`);
 
-    // Fetch game data, e.g., player scores
-    const gameData = await fetchGameData();
+    // Fetch the latest 50 posts from the channel
+    const response = await axios.get(`${TG_JSON_API}?limit=50`);
+    const channelData = response.data;
 
-    // Store data for submission and audit
-    await namespaceWrapper.storeSet(`round_${roundNumber}_gameData`, JSON.stringify(gameData));
-    console.log("Game data stored for submission:", gameData);
+    // Store the channel data in namespace storage
+    await namespaceWrapper.storeSet(`round_${roundNumber}_channelData`, JSON.stringify(channelData));
+    console.log(`Stored data for round ${roundNumber}`);
   } catch (error) {
-    console.error("Error in task execution:", error);
+    console.error("EXECUTE TASK ERROR:", error.message);
   }
-}
-
-// Simulated game data function
-async function fetchGameData() {
-  return {
-    TG_Username: "hakikitech",
-    PlayerScore: Math.floor(Math.random() * 1000), // Simulated score
-  };
 }

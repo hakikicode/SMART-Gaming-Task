@@ -1,77 +1,96 @@
-# SMART Open Network & SMART Task
+# SMART Gaming Task on SMART Open Network
 
-**SMART Open Network** is a decentralized platform that offers tasks, gaming experiences, and opportunities for users to earn rewards in **SMART tokens**. With the **SMART Task** system deployed on the **Koii Network**, users can participate in various blockchain-based tasks to earn rewards while contributing to the growth of the network.
-
-## Overview
-
-- **SMART Open Network**: A decentralized ecosystem where participants can complete tasks, earn tokens, and play blockchain-based games like the **SmartClicking Game**.
-- **SMART Task**: A task system that allows users to complete specific tasks on the **Koii Network**, earn **SMART tokens**, and engage in blockchain validation.
-
-## Key Features
-
-- **SMART Tokens**: Utility tokens that users earn for completing tasks, playing games, or contributing to the network.
-- **SmartClicking Game**: A blockchain-based game where users can earn tokens by completing clicks and actions.
-- **SMART Task on Koii Network**: A decentralized task system where participants complete tasks, validate data, and contribute to the blockchain while earning **SMART tokens**.
-
-## Benefits of Participating
-
-- Earn **SMART tokens** for completing blockchain tasks.
-- Early participants receive bonus rewards for engaging in the **SMART Task**.
-- Use **SMART tokens** for staking, governance, or in-game features.
-- Join a growing decentralized ecosystem and help validate blockchain tasks.
-
-## Getting Started with SMART Task
-
-### 1. Requirements
-
-- A **Koii Node** to participate in tasks.
-- A supported **crypto wallet** to store and manage **SMART tokens**.
-
-### 2. How to Participate
-
-#### Set up a Koii Node
-Follow [Koii Network](https://koii.network/) instructions to set up your own Koii Node. This is essential to participate in **SMART Task** validation.
-
-#### Start Earning
-Once your node is running, you can start completing tasks on the **SMART Task**. The tasks involve validating data or actions submitted by other users, with opportunities to earn **SMART tokens**.
-
-### 3. Validation Process
-
-As a participant, your role is to:
-
-- Complete tasks (such as validating game data or blockchain actions).
-- Submit proofs of task completion on-chain.
-- Earn **SMART tokens** based on your contributions and accuracy.
-
-## How SMART Task Works
-
-### Task Submission:
-Tasks are submitted by the system or users and are posted on the **Koii Network** for validation. Participants can join the validation round to help verify the correctness of tasks.
-
-### Task Validation:
-Validators audit the submitted data against the stored game data or blockchain activity to ensure accuracy. If the data is valid, it is approved, and participants are rewarded.
-
-### Reward Distribution:
-After completing tasks, participants earn **SMART tokens**. Early participants in the **SMART Task** will receive bonus tokens for their involvement.
-
-## SMART Token Utility
-
-- **Staking**: Lock your **SMART tokens** to earn more rewards or gain voting power in the governance of the network.
-- **Gaming**: Use your **SMART tokens** in the **SmartClicking Game** to unlock in-game features, boost your earnings, and more.
-- **Governance**: Participate in voting on the future direction of the **SMART Open Network**.
-
-## Roadmap
-
-- **Phase 1**: Launch of **SMART Task** on **Koii Network** for task validation and token rewards.
-- **Phase 2**: Expansion of the **SmartClicking Game** with new features and additional reward opportunities.
-- **Phase 3**: Integration with DeFi platforms to allow staking, lending, and borrowing of **SMART tokens**.
-- **Phase 4**: Partnerships with complementary blockchain platforms to increase exposure and utility of **SMART tokens**.
+**SMART Gaming Task** is an initiative under the **SMART Open Network** designed to validate and reward engagement in public gaming communities. Deployed on the **Koii Network**, this task allows participants to earn **SMART tokens** by validating gaming-related data from public Telegram channels and other open APIs.
 
 ---
 
-Feel free to reach out to our team for any questions or assistance in getting started with **SMART Open Network** and **SMART Task**!
-nativeopen.x@ud.me
-nativeopen.x@gmail.com
-twitter(X): @smart_openet
-instagram: smart_openet
-telegram: @depinsdirect
+## Overview
+
+- **SMART Gaming Task**: Validate and reward engagement in public gaming channels.
+- **SMART Open Network**: A decentralized ecosystem promoting transparency, engagement, and rewards for users.
+- **SMART Tokens**: Utility tokens that users earn for their participation and contributions.
+
+---
+
+## Key Features
+
+1. **Validate Gaming Data**:
+   - Collect public engagement data (posts, reactions, comments).
+   - Verify authenticity and relevance for rewards.
+
+2. **Earn SMART Tokens**:
+   - Participate in task validation.
+   - Receive rewards based on accurate contributions.
+
+3. **Decentralized System**:
+   - Built on the **Koii Network** for transparency and security.
+   - Community-driven validation process.
+
+---
+
+## Benefits of Participation
+
+- Earn **SMART tokens** for contributing to decentralized validation tasks.
+- Support the growth of a transparent and fair gaming community.
+- Be part of a cutting-edge blockchain gaming project.
+
+---
+
+## How to Get Started
+
+### 1. Requirements
+- A **Koii Node** to participate in tasks.
+- A supported **crypto wallet** to store **SMART tokens**.
+
+### 2. Set Up Your Node
+Follow [Koii Network](https://koii.network/) instructions to set up your Koii Node.
+
+### 3. Start Validating
+- Participate in task validation rounds.
+- Validate engagement data from gaming-related public Telegram channels.
+- Submit your results and earn **SMART tokens**.
+
+---
+
+## Validation Process
+
+1. **Task Submission**:
+   - Public data is fetched using Telegram APIs or other open APIs.
+   - Engagement metrics (e.g., reactions, comments) are recorded.
+
+2. **Task Validation**:
+   - Validators check the accuracy of the submitted data.
+   - Correct submissions are approved, and participants are rewarded.
+
+3. **Reward Distribution**:
+   - Rewards are distributed in **SMART tokens** to participants with valid submissions.
+
+---
+
+## SMART Token Utility
+
+- **Staking**: Lock your tokens to earn additional rewards.
+- **Gaming**: Use tokens in gaming ecosystems.
+- **Trade**: Exchange it to other Tokens.
+- **Governance**: Participate in decisions shaping the **SMART Open Network**.
+
+---
+
+## Roadmap
+
+1. **Phase 1**: Deploy SMART Gaming Task to validate public gaming data.
+2. **Phase 2**: Expand engagement metrics and integrate with more public APIs.
+3. **Phase 3**: Develop additional gaming tasks and interactive features.
+4. **Phase 4**: Partner with gaming communities to enhance participation.
+
+---
+
+## Community
+
+- **Twitter (X)**: [@smart_openet](https://twitter.com/smart_openet)
+- **Instagram**: [smart_openet](https://instagram.com/smart_openet)
+- **Email**: nativeopen.x@gmail.com
+
+---
+
+**SMART Gaming Task** is part of the broader **SMART Open Network** initiative, fostering engagement, transparency, and rewards in the gaming community.
