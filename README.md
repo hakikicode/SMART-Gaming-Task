@@ -1,6 +1,6 @@
-# SMART Gaming Task on SMART Open Network
+# SMART TelegramTips Task on SMART Open Network
 
-**SMART Gaming Task** is an initiative under the **SMART Open Network** designed to validate and reward engagement in public gaming communities. Deployed on the **Koii Network**, this task allows participants to earn **SMART tokens** by validating gaming-related data from public Telegram channels and other open APIs.
+**SMART TelegramTips Task** is an initiative under the **SMART Open Network** designed to validate and reward engagement in public gaming communities. Deployed on the **Koii Network**, this task allows participants to earn **SMART tokens** by validating gaming-related data from public Telegram channels and other open APIs.
 
 ---
 
@@ -93,4 +93,4 @@ Follow [Koii Network](https://koii.network/) instructions to set up your Koii No
 
 ---
 
-**SMART Gaming Task** is part of the broader **SMART Open Network** initiative, fostering engagement, transparency, and rewards in the gaming community.
+**SMART TelegramTips Task** is part of the broader **SMART Open Network** initiative, fostering engagement, transparency, and rewards in the gaming community.

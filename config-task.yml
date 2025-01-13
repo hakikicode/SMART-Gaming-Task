@@ -5,7 +5,7 @@
 
 ## Task Name ##
 # Maximum 24 characters.
-task_name: "SMART Gaming Task"
+task_name: "SMART TelegramIips Task"
 
 ## Task Author ##
 author: "Smart Open Network"
@@ -17,7 +17,7 @@ markdownDescriptionPath: "./TaskDescription.md"
 
 ## Task Description ##
 # Ignored if you specify a markdown file.
-description: "Validate public gaming engagement data."
+description: "Validate public Telegram channel for gaming engagement data."
 
 ## Repository URL ##
 # Must be public for whitelisted tasks.
@@ -58,7 +58,7 @@ task_type: "KPL"
 token_type: "HK8STMDTos4QFocyEADxwdXBrN13DCB9AcwLXsmvBthh"
 
 ## Total Bounty Amount ##
-total_bounty_amount: 1000000
+total_bounty_amount: 100000
 
 ## Bounty Amount per Round ##
 bounty_amount_per_round: 0.1
@@ -88,7 +88,7 @@ environment: "PRODUCTION"
 #################################### FOR UPDATING TASKS ONLY ####################################
 
 ## Old Task ID ##
-task_id: "2cmwQeXPjLDqc3UJ5q72otxySsvXxYDqYzNTeWMbuWx5"
+task_id: "C7qhKzyBsi4PL3bBPLXDWSG5qd9GKGPJLhZU2jvrsP4Z"
 
 ## Migration Description ##
-migrationDescription: "SMART Gaming Task validates engagement in public gaming communities and distributes rewards for accurate validation."
+migrationDescription: "SMART TelegramTips Task validates engagement in public gaming communities and distributes rewards for accurate validation."
